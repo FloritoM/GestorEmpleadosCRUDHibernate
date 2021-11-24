@@ -1,3 +1,4 @@
 - CRUD con Hibernate como implementación
 - Usé MySQL como motor de DB
-- Hecho como app web pero el main class está en com.ge.client
+
+
