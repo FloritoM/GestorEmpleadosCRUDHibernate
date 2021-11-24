@@ -1,0 +1,8 @@
+com\empleados\empleadoscrud\dominio\Empleado.class
+com\empleados\empleadoscrud\dominio\Contacto.class
+com\empleados\empleadoscrud\hibernate\GestorPrincipal.class
+com\empleados\empleadoscrud\dominio\Usuario.class
+com\empleados\empleadoscrud\datos\iGestorDAO.class
+com\empleados\empleadoscrud\datos\EmpleadoDAO.class
+com\empleados\empleadoscrud\datos\ContactoDAO.class
+com\empleados\empleadoscrud\datos\UsuarioDAO.class

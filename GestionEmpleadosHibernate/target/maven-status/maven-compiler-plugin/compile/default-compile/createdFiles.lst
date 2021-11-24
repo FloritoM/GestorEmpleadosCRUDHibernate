@@ -1,9 +1,0 @@
-com\ge\data\ContactoDAO.class
-com\ge\domain\Contacto.class
-com\ge\service\EmpleadoService.class
-com\ge\client\MainClient.class
-com\ge\data\EmpleadoDAO.class
-com\ge\domain\Empleado.class
-com\ge\domain\Usuario.class
-com\ge\web\Servlet.class
-com\ge\data\UsuarioDAO.class
